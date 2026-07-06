@@ -6,8 +6,8 @@ import { GoogleAnalytics } from '@next/third-parties/google'
 
 
 export const metadata: Metadata = {
-  title: process.env.NEXT_PUBLIC_PRODUCTNAME,
-  description: "The best way to build your SaaS product.",
+  title: "JusGaming — Simulador de Processos Judiciais",
+  description: "Plataforma educacional de simulação de processos judiciais para o ensino de Direito.",
 };
 
 export default function RootLayout({
